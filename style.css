@@ -27,8 +27,8 @@ left: 150px;
 #left {
   display: flex;
   justify-content: flex-start;
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 200px;
+  max-height: 200px;
 
 
 }
