@@ -54,6 +54,6 @@ function draw() {
   txt6.style('font-size', '22px');
   txt6.position(60,1000);
   txt7.style('font-size', '25px');
-  txt7.position(1950, 250);
+  txt7.position(1800, 250);
 }
   //text('CopyRight New York Times', 810, 510);//
