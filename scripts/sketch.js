@@ -31,7 +31,6 @@ function setup() {
   imglogo.parent('logo');
   img2.parent("left")
   img4.parent("left");
-  img1.position(580,470);//variable position
   img1.size(800,600)
   img3.position(1300, 800)
   img3.size(420,300)
