@@ -35,6 +35,5 @@ left: 150px;
 #post{
   display: flex;
   justify-content: flex-end;
-  position: absolute;
-  top: 50px;
+  
 }
