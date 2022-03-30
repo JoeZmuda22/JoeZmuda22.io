@@ -28,6 +28,8 @@ left: 150px;
   display: flex;
   justify-content: flex-start;
   max-width: 50%;
+  flex-direction: column;
+  justify-content: space-between;
 
 
 
@@ -35,5 +37,5 @@ left: 150px;
 #post{
   display: flex;
   justify-content: flex-end;
-  
+
 }
