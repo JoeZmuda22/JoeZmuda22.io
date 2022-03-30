@@ -24,15 +24,10 @@ top: -100px;
 left: 150px;
 }
 
-#post {
+#left {
   display: flex;
-  justify-content: flex-end;
-  position: absolute;
-  right: 10px;
-  top: 10px;
-  padding: 10px;
-  width: 20%;
-  height: 20%;
+  justify-content: flex-start;
+  
 }
 #xbox {
   display: flex;
@@ -41,4 +36,9 @@ left: 150px;
   width: 20%;
   height: 20%;
   top: 50px;
+}
+#superbowl {
+  display: flex;
+  justify-content: flex-start;
+
 }
