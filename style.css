@@ -41,7 +41,6 @@ left: 150px;
 }
 
 #betty {
-  display: grid;
-  grid-column-start: 3;
-  grid-row-start: 3;
+  display: flex;
+  align-items: center;
 }
