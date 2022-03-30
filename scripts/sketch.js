@@ -25,7 +25,7 @@ txt7 = createP('PostMalone is back!! <br/> Get your tickets today!!');
 }
 
 function setup() {
-  img2,size(420,400);
+  img2.size(420,400);
   img1.parent("betty");
   imgpost.parent('post');
   imglogo.parent('logo');
