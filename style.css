@@ -32,16 +32,9 @@ left: 150px;
 
 
 }
-#xbox {
+#post{
   display: flex;
-  justify-content: flex-start;
+  justify-content: flex-end;
   position: absolute;
-  width: 20%;
-  height: 20%;
   top: 50px;
-}
-#superbowl {
-  display: flex;
-  justify-content: flex-start;
-
 }
