@@ -30,6 +30,8 @@ left: 150px;
   max-width: 50%;
   flex-direction: column;
   justify-content:space-around;
+  position: absolute;
+  top: 20px;
 
 
 
@@ -44,6 +46,9 @@ left: 150px;
 #betty {
   display: flex;
   justify-content: center;
+  position: absolute;
+  top: 500px;
+  left: 500px;
 
 
 }
