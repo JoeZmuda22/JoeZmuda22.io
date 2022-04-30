@@ -1,0 +1,20 @@
+a{
+  background-color: blue;
+  box-shadow: 0 5px 0 darkblue;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  background-color: #00008b;
+
+}
+a:active {
+  box-shadow: none;
+  top:5px;
+}
+body{
+  background-image: url("FunBkrnd.webp");
+}

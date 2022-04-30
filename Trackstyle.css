@@ -1,0 +1,17 @@
+a{
+  background-color: red;
+  box-shadow: 0 5px 0 darkred;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  background-color: #8B0000;
+
+}
+a:active {
+  box-shadow: none;
+  top:5px;
+}
